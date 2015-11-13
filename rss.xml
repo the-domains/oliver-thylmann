@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Oliver Thylmann]]></title>
+        <description><![CDATA[Oliver Thylmann]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 Nov 2015 10:17:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Well this is a test</p>]]></description>
+            <link>undefinedb6a2381a-f0f2-4773-80d8-9daa7b87efcd/index.html</link>
+            <guid isPermaLink="false">b6a2381a-f0f2-4773-80d8-9daa7b87efcd</guid>
+            <pubDate>Fri, 13 Nov 2015 09:40:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
